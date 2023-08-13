@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-learning-diary/static/css/main.b0af0713.css",
+    "main.js": "/react-learning-diary/static/js/main.85c9ba71.js",
+    "index.html": "/react-learning-diary/index.html",
+    "main.b0af0713.css.map": "/react-learning-diary/static/css/main.b0af0713.css.map",
+    "main.85c9ba71.js.map": "/react-learning-diary/static/js/main.85c9ba71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0af0713.css",
+    "static/js/main.85c9ba71.js"
+  ]
+}
